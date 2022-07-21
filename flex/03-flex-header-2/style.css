@@ -14,8 +14,12 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
+<<<<<<< HEAD
   align-items: center;
   padding: 15px;
+=======
+  padding: 10px;
+>>>>>>> 9192d7d7ba8222cda6496e25ba9f165022c0d55c
 }
 
 .profile-image {
@@ -50,6 +54,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+<<<<<<< HEAD
   gap: 15px;
   margin: 0;
   padding: 0;
@@ -62,4 +67,14 @@ ul {
   align-items: center;
   gap: 15px;
 
+=======
+  gap: 10px;
+>>>>>>> 9192d7d7ba8222cda6496e25ba9f165022c0d55c
+}
+
+.cont2, .left{
+  /* margin-left: auto; */
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
